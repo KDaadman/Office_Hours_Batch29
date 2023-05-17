@@ -1,5 +1,16 @@
-public class Util{
-  
-  public static void makeEasyToRead(){
-    
-  }
+
+public class Util {
+
+    public static void ConnectToDB() {
+
+    }
+
+
+    public static void makeEasyToRead() {
+
+    }
+
+    public static void akeBreak() {
+
+    }
+}
